@@ -18,7 +18,7 @@ use this ip address to connect to the database in the codebase
 
 # backend env setup
 ```
-cd backend/src/
+cd backend/api/src/
 py -m venv ./venv/
 . venv/bin/activate
 pip install -r requirements.txt
